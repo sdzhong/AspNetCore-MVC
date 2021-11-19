@@ -2,3 +2,5 @@
 obj
 bin
 .DS_Store
+appsettings.json
+deploy.ps1

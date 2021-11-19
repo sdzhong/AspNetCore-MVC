@@ -6,7 +6,7 @@
   },
   "AllowedHosts": "*",
   "Sentry": {
-    "Dsn": "https://4fc5beb02f3d425f96d3f7a647d792dd@o87286.ingest.sentry.io/5583187",
+    "Dsn": TODO,
     "IncludeRequestPayload": true,
     "SendDefaultPii": true,
     "MinimumBreadcrumbLevel": "Debug",
